@@ -11,9 +11,9 @@ Demo rakendust saab testida järgnevalt:
   * Vahetus - ükskõik milline<br/>
   * Kuupäev - 26.05.2021 kuni 28.05.2021<br/>
   <br/>
-* "LIVEMB" vaade:<br/>
+* "MB HETKESEIS" vaade:<br/>
   * ainult saal B andmed ilmuvad<br/>
   * testimiseks muuta brauseri resolutsioon 4K mõõtmetele ja oodata 20 sekundit<br/>
   <br/>
-* "LIVEOR" vaade:<br/>
+* "OR HETKESEIS" vaade:<br/>
   * testandmed puuduvad<br/>
