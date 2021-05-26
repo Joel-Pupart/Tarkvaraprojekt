@@ -14,6 +14,6 @@ Demo rakendust saab testida j2rgnevalt:
 * "LIVEMB" vaade:<br/>
   * ainult saal B andmed ilmuvad<br/>
   * testimiseks muuta brauseri resolutsioon 4K mõõtmetele ja oodata 20 sekundit<br/>
-<br/>
+  <br/>
 * "LIVEOR" vaade:<br/>
   * testandmed puuduvad<br/>
