@@ -8,8 +8,8 @@ Demo rakendust saab testida järgnevalt:
 
 * "AJALUGU" vaates andmetega:<br/>
   * Saal - B<br/>
-  * Vahetus - ükskõik milline<br/>
-  * Kuupäev - 26.05.2021 kuni 28.05.2021<br/>
+  * Vahetus - 1. vahetus<br/>
+  * Kuupäev - 26.05.2021<br/>
   <br/>
 * "MB HETKESEIS" vaade:<br/>
   * ainult saal B andmed ilmuvad<br/>
