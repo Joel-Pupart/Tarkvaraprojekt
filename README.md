@@ -14,6 +14,7 @@ Demo rakendust saab testida järgnevalt:
 * "MB HETKESEIS" vaade:<br/>
   * ainult saal B andmed ilmuvad<br/>
   * testimiseks muuta brauseri resolutsioon 4K mõõtmetele ja oodata 20 sekundit<br/>
+  * testitav ainult vahemikus 26.05.2021 kuni kell 14:00 28.05.2021
   <br/>
 * "OR HETKESEIS" vaade:<br/>
   * testandmed puuduvad<br/>
